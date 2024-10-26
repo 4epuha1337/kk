@@ -1,4 +1,4 @@
-module main
+module finalfinalyo
 
 go 1.22.4
 
